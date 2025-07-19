@@ -8,7 +8,7 @@ items:
   icon_class: fas fa-calendar-alt
 
 - url: /lectures/
-  name: Materials
+  name: Course Plan
   icon_class: fas fa-book-reader
 
 - url: /quizs/
