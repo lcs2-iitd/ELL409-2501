@@ -1,7 +1,7 @@
 # Site settings
 course_code: AIL7024 
 course_name: "INTRODUCTION TO MACHINE LEARNING"
-course_description: "This is an introductory course on Machine Learning that is offered, but not limited to, postgraduate students. The contents are designed to cover both theoretical and practical aspects of several well-established ML techniques. The assignments will contain theory and programming questions that help strengthen the theoretical foundations, as well as learn how to engineer ML solutions to work on simulated and publicly available real datasets. The project(s) will require students to develop a complete Machine Learning solution requiring preprocessing, design of the classifier/regressor, training and validation, testing and evaluation with quantitative performance comparisons."
+course_description: "This course offers a detailed introduction to core and advanced topics in Machine Learning, suitable for postgraduate students. The syllabus covers decision trees, regression models, generalized linear models, generative classifiers, and support vector machines, with emphasis on both theoretical concepts and their practical implementations. Students will explore modern techniques such as ensemble learning, dimensionality reduction, neural networks, CNNs, RNNs, and transformers. Lectures are supported by supplementary readings and detailed scribes to reinforce learning. The course includes assignments and quizzes that combine theoretical analysis with coding exercises using real-world data. A half-semester-long project will require students to design and implement complete ML pipelines, from preprocessing to evaluation."
 course_semester: "Sem-I, 2025"
 
 baseurl: "/AIL7024-2501" # the subpath of your site, e.g. /blog/
