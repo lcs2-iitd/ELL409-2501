@@ -3,17 +3,9 @@ layout: lectures
 title: Course Plan
 permalink: /lectures/
 ---
----
-Course Introduction
-tl;dr: An introduction to the course syllabus, timeline and background.
-Decision Tree
-tl;dr: Desicion Tree: Introduction, Useage, Types, Shanon's Entropy, Information Gain, Examples.
-Decision Tree: Continued
-tl;dr: Desicion Tree: ID3, Inductive Bias, Overfitting & it's avoiding techniques
-Linear Regression-I
-tl;dr: Linear Regression: MLE, MEP, Introduction to LR
-Linear Regression-II
-tl;dr: Linear Regression: Normal equation, closed form solution for LR
+- Course Introduction - An introduction to the course syllabus, timeline and background.
+- Decision Tree - Decision Tree: Introduction, Usage, Types, Shanon's Entropy, Information Gain, Examples, ID3, Inductive Bias, Overfitting & it's avoiding techniques
+- Linear Regression - MLE, MEP, Introduction to LR, Normal equation, closed form solution for LR
 Linear Regression-III
 tl;dr: Probabilistic interpretation of LR, Locally weighted LR, analysis of different error functions in LR
 Logistic Regression
