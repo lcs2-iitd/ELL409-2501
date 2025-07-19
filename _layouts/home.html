@@ -14,8 +14,9 @@ layout: default
     <p>{{ site.course_description }}</p>
 
     <h2>Previous Offering</h2>
-    <p>{{ site.data.previous_offering }}</p>
-
+    <p>{{ site.data.previous_offering.offerings.title }}</p>
+    <p>{{ site.data.previous_offering.offerings.url }}</p>
+    
     {{ content }}
 
     <br>
