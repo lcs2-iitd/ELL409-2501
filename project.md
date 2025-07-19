@@ -5,4 +5,4 @@ permalink: /project/
 ---
 
 ---
-# Projects will be released soon!!
+Projects will be released soon!!
