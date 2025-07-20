@@ -1,6 +1,6 @@
 ---
 layout: lectures
-title: Course Plan
+title: Tentative Course Plan
 permalink: /lectures/
 ---
 

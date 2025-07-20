@@ -16,7 +16,6 @@ This is an introductory course on Machine Learning (ML) that is offered to under
 
 ### Tentative Syllabus
 • Introduction <br>
-• Concept learning <br>
 • Decision Trees <br>
 • Regression <br>
 • Support Vector Machine <br>
