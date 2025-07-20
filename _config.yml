@@ -2,7 +2,7 @@
 course_code: AIL7024 
 course_name: "INTRODUCTION TO MACHINE LEARNING"
 course_description: "This course offers a detailed introduction to core and advanced topics in Machine Learning, suitable for postgraduate students. The syllabus covers decision trees, regression models, generalized linear models, generative classifiers, and support vector machines, with emphasis on both theoretical concepts and their practical implementations. Students will explore modern techniques such as ensemble learning, dimensionality reduction, neural networks, CNNs, RNNs, and transformers. Lectures are supported by supplementary readings and detailed scribes to reinforce learning. The course includes assignments and quizzes that combine theoretical analysis with coding exercises using real-world data. A half-semester-long project will require students to design and implement complete ML pipelines, from preprocessing to evaluation."
-course_semester: "Sem-I, 2025"
+course_semester: "Semester I, 2025-26"
 
 baseurl: "/AIL7024-2501" # the subpath of your site, e.g. /blog/
 url: "http://lcs2-iitd.github.io/" # the base hostname & protocol for your site
