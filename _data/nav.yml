@@ -11,6 +11,10 @@ items:
   name: Course Plan
   icon_class: fas fa-book-reader
 
+- url: /lectures/
+  name: Lectures
+  icon_class: fas fa-book-reader
+
 - url: /quizs/
   name: Quizzes
   icon_class: fas fa-award
