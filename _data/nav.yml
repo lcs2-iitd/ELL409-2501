@@ -9,7 +9,7 @@ items:
 
 - url: /course-plan/
   name: Course Plan
-  icon_class: fas fa-book-bookmark
+  icon_class: fas fa-book-book
 
 - url: /lectures/
   name: Lectures
